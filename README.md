@@ -1,20 +1,20 @@
 # 🎮 Vista Grotto
 
-A Python game built using Pygame that offers an immersive experience exploring the mystical Vista Grotto environment.
+An immersive Python game built with Pygame that takes players on an adventure through the mystical Vista Grotto environment.
 
 ---
 
 ## 🎯 Project Overview
 
-Vista Grotto is an interactive game developed with Python and Pygame. It showcases custom graphics, sounds, and gameplay mechanics to create an engaging adventure experience.
+Vista Grotto is an interactive game developed using Python and the Pygame library. It features custom graphics, sounds, and gameplay mechanics designed to provide an engaging and atmospheric experience.
 
 ---
 
 ## 🚀 How to Run Locally
 
-### Requirements
+### Prerequisites
 
-- Python 3.x installed ([Download Python](https://www.python.org/downloads/))  
+- Python 3.x ([Download Python](https://www.python.org/downloads/))  
 - Pygame library installed
 
 ### Install Pygame
